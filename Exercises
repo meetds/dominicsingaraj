@@ -1,0 +1,12 @@
+Exercise 1 : 
+
+1. Setup a UBUNTU VM
+2. Install MYSQL 
+3. Create a table named Customers in mysql database and insert a few records
+4. Write a python program to query the Customers table 
+
+Exercise 2 : 
+
+1. Setup postgresql in VM 
+2. Create a few tables 
+3. Perform bulk load of sample data into local database using python code
